@@ -1,6 +1,6 @@
 # T4D
 StartUp landing page!
 
-* Js
+* php
 * Css
 * Bootstrap
